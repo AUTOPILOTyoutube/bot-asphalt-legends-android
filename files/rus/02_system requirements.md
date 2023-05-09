@@ -1,6 +1,6 @@
  # __Бот для игры Asphalt Legends (Android) v.5.0__
 
-### [СОДЕРЖАНИЕ](https://github.com/autopilotyoutube/bot-asphalt-legends-android/raw/main/readme.md)  
+### [СОДЕРЖАНИЕ](https://github.com/AUTOPILOTyoutube/bot-asphalt-legends-android/blob/main/README.md)
 
  ## СИСТЕМНЫЕ ТРЕБОВАНИЯ
 
