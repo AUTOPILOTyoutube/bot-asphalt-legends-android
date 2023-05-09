@@ -12,6 +12,8 @@
 - Скриншот кнопки "Сетевая игра" на белом фоне: 00_MultiPlayer.png
 - Скриншот кнопки "Сетевая игра" на синем фоне: 01_MultiPlayer.png
 
+Язык игры может быть любой - русский, английский... Для примера я показываю, как выглядят скриншоты для русской и английской версии игры.
+
 ![Иллюстрация к проекту](https://github.com/autopilotyoutube/bot-asphalt-legends-android/raw/main/files/pictures/07_start/menu.png)
 
 Эти файлы надо положить в папку: BotAphalt9/BUTTONS/NETWORK
