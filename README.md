@@ -7,5 +7,6 @@
  2. [Системные требования](https://github.com/AUTOPILOTyoutube/bot-asphalt-legends-android/blob/main/files/rus/02_system_requirements.md)
  3. [Установка бота](https://github.com/AUTOPILOTyoutube/bot-asphalt-legends-android/blob/main/files/rus/03_install.md)
  4. [Интерфейс](https://github.com/AUTOPILOTyoutube/bot-asphalt-legends-android/blob/main/files/rus/04_interface.md)
+ 5. [Как делать скриншоты](https://github.com/AUTOPILOTyoutube/bot-asphalt-legends-android/blob/main/files/rus/05_screenshots.md)
 
 ## My telegram: @IvanSketch
