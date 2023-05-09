@@ -15,8 +15,8 @@
 
  Вот пример неправильного скриншота:
 
-
+![Иллюстрация к проекту](https://github.com/autopilotyoutube/bot-asphalt-legends-android/raw/main/files/pictures/05_screenshots/minus.png)
 
  Правильный скриншот:
 
- 
+![Иллюстрация к проекту](https://github.com/autopilotyoutube/bot-asphalt-legends-android/raw/main/files/pictures/05_screenshots/plus.png)
