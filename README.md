@@ -8,6 +8,6 @@
  3. [Установка бота](https://github.com/AUTOPILOTyoutube/bot-asphalt-legends-android/blob/main/files/rus/03_install.md)
  4. [Интерфейс](https://github.com/AUTOPILOTyoutube/bot-asphalt-legends-android/blob/main/files/rus/04_interface.md)
  5. [Как делать скриншоты](https://github.com/AUTOPILOTyoutube/bot-asphalt-legends-android/blob/main/files/rus/05_screenshots.md)
- 6. [Как обрезать скриншоты]
+ 6. [Как обрезать скриншоты](https://github.com/AUTOPILOTyoutube/bot-asphalt-legends-android/blob/main/files/rus/06_crop.md)
 
 ## My telegram: @IvanSketch
