@@ -4,10 +4,10 @@
 
  ## ИНТЕРФЕЙС
  Интерфейс бота - прямоугольное окно в левом верхнем углу экрана  
-![Иллюстрация к проекту](https://github.com/autopilotyoutube/bot-asphalt-legends-android/raw/main/files/pictures/readme/04_interface/int_full.png)  
+![Иллюстрация к проекту](https://github.com/autopilotyoutube/bot-asphalt-legends-android/raw/main/files/pictures/04_interface/int_full.png)  
 
 1. При длительном нажатии на красную кнопку “BOT ASPHALT 9” – бот сворачивается, и превращается полупрозрачный прямоугольник!  
-![Иллюстрация к проекту](https://github.com/autopilotyoutube/bot-asphalt-legends-android/raw/main/files/pictures/readme/04_interface/int_min.png) 
+![Иллюстрация к проекту](https://github.com/autopilotyoutube/bot-asphalt-legends-android/raw/main/files/pictures/04_interface/int_min.png) 
 
 2. При повторном длительном нажатии на красный прямоугольник - бот разворачивается в первоначальное состояние.
 
