@@ -4,5 +4,5 @@
 
  ## СОДЕРЖАНИЕ
  1. [Описание возможностей бота](https://github.com/AUTOPILOTyoutube/bot-asphalt-legends-android/blob/main/files/rus/01_description.md)
- 2. [Системные требования]()
- 3. 
+ 2. [Системные требования](https://github.com/AUTOPILOTyoutube/bot-asphalt-legends-android/blob/main/files/rus/02_system_requirements.md)
+ 3.
