@@ -7,7 +7,7 @@
 
 ![Иллюстрация к проекту](https://github.com/autopilotyoutube/bot-asphalt-legends-android/raw/main/files/pictures/04_interface/int_full.png)  
 
-1. При длительном нажатии на красную кнопку “BOT ASPHALT 9” – бот сворачивается, и превращается полупрозрачный прямоугольник!
+1. При длительном нажатии на красную кнопку “BOT ASPHALT 9” – бот сворачивается, и превращается полупрозрачный прямоугольник! Это пригодится тем, кому мешает большое окно бота.
 
     ![Иллюстрация к проекту](https://github.com/autopilotyoutube/bot-asphalt-legends-android/raw/main/files/pictures/04_interface/int_min.png) 
 
@@ -23,7 +23,7 @@
 
 ## ПРИМЕР и ОПИСАНИЕ ИНТЕРФЕЙСА
 
-![Иллюстрация к проекту](https://github.com/autopilotyoutube/bot-asphalt-legends-android/raw/main/files/pictures/04_interface/game.jpg)
+![Иллюстрация к проекту](https://github.com/autopilotyoutube/bot-asphalt-legends-android/raw/main/files/pictures/04_interface/game.png)
 
 Здесь мы видим следующую статистику:  
 Бот катает 14-ю гонку.  
