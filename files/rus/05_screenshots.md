@@ -13,10 +13,9 @@
 
  Если ориентация экрана в настройках бота выбрана неправильно, то скриншот будет иметь вертикальную форму с черными прямоугольниками. В этом случае необходимо поменять ориентацию экрана в настройках бота.
 
- Вот пример неправильного скриншота:
+## Пример
 
-![Иллюстрация к проекту](https://github.com/autopilotyoutube/bot-asphalt-legends-android/raw/main/files/pictures/05_screenshots/minus.png)
+![Иллюстрация к проекту](https://github.com/autopilotyoutube/bot-asphalt-legends-android/raw/main/files/pictures/05_screenshots/Screenshot.jpg)
 
- Правильный скриншот:
-
-![Иллюстрация к проекту](https://github.com/autopilotyoutube/bot-asphalt-legends-android/raw/main/files/pictures/05_screenshots/plus.png)
+На этом примере мы видим, что у первых трёх скриншотов оринтация экрана выбрана правильно.  
+А у последнего скриншота 9215425450.png ориентация экрана выбрана неправильно.
