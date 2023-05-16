@@ -1,0 +1,11 @@
+{
+    "NitroXY": [1350,550],
+    "BrakeXY": [250,550],
+    "RunGameLeftSwipe": [600,350,350,350],
+    "RunGameRightSwipe": [950,350,1150,350],
+    "CarSelectWorldSeriesSwipe": [1350,350,350,350,7],
+    "DailyEventsCarHuntSelectSwipe": [1300,600,300,600],
+    "SpecialEventsCarHuntSelectVerticalSwipe": [370,530,370,320],
+    "GamePackageOriginal":"com.gameloft.android.ANMP.GloftA9HM",
+    "GamePackageChina":"com.gameloft.android.HUAW.GloftA9HW.HUAWEI"
+}

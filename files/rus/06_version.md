@@ -46,7 +46,7 @@
 
 После нажатия на игру появится всплывающее окно, где Вы увидите полное имя игры:
 
-![Иллюстрация к проекту](https://github.com/autopilotyoutube/bot-asphalt-legends-android/raw/main/files/pictures/04_interface/PackageNames01.png)
+![Иллюстрация к проекту](https://github.com/autopilotyoutube/bot-asphalt-legends-android/raw/main/files/pictures/04_interface/PackageNames02.png)
 
 Это имя игры должно совпадать с именем игры в файле AsphaltSettings.json.
 Если имя не совпадает, то в файле AsphaltSettings.json необходимо написать новое имя игры. 
