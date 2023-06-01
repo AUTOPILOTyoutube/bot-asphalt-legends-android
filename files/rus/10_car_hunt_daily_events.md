@@ -6,8 +6,9 @@
 
 [ВидеоУрок: Охота за тачкой в ежедневных событиях](https://youtu.be/1QtGceXUpOA)
 
-Перед настройкой бота не забудьте указать правильные координаты кликов и свайпов в файле AsphaltSettings.json:
-[Читать](https://github.com/AUTOPILOTyoutube/bot-asphalt-legends-android/blob/main/files/rus/09_AsphaltSettings_json.md)  
+Не забудьте указать правильные координаты кликов и свайпов в файле AsphaltSettings.json  
+[ВидеоУрок: AsphaltSettings.json](https://youtu.be/ooLLJdu3mHs)  
+[Прочитать: AsphaltSettings.json ](https://github.com/AUTOPILOTyoutube/bot-asphalt-legends-android/blob/main/files/rus/09_AsphaltSettings_json.md)  
 
 Бот может управлять автомобилями в ежедневном событии "Охота за тачкой"  
 
