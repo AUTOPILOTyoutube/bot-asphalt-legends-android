@@ -32,3 +32,5 @@
 |![Иллюстрация к проекту](https://github.com/autopilotyoutube/bot-asphalt-legends-android/raw/main/files/rus/BotAphalt9/BUTTONS/CarHuntSpecial/CarRUN/02_PININFARINA.png)| 02_PININFARINA.png |
 |![Иллюстрация к проекту](https://github.com/autopilotyoutube/bot-asphalt-legends-android/raw/main/files/rus/BotAphalt9/BUTTONS/CarHuntSpecial/CarRUN/03_ACURA.png)| 03_ACURA.png |
 |![Иллюстрация к проекту](https://github.com/autopilotyoutube/bot-asphalt-legends-android/raw/main/files/rus/BotAphalt9/BUTTONS/CarHuntSpecial/CarRUN/AcuraNSX.png)| AcuraNSX.png |
+
+Остальные скриншоты кнопок были уже добавлены при настройке предыдущих режимов.
