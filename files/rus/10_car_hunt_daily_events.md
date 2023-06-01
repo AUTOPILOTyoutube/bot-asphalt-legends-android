@@ -14,11 +14,24 @@
 
 | СКРИНШОТЫ КНОПОК | НАЗВАНИЕ ФАЙЛА | КАК ОБРЕЗАТЬ КНОПКУ |
 |:---:|---|:---:|
-|![Иллюстрация к проекту](https://github.com/autopilotyoutube/bot-asphalt-legends-android/raw/main/files/rus/BotAphalt9/BUTTONS/NETWORK/00_MultiPlayer.png)| 00_MultiPlayer.png | ![Как обрезать](https://github.com/autopilotyoutube/bot-asphalt-legends-android/raw/main/files/pictures/08_world_series/00_MultiPlayer.png) |
+|![Иллюстрация к проекту](https://github.com/autopilotyoutube/bot-asphalt-legends-android/raw/main/files/rus/BotAphalt9/BUTTONS/CarHUNT/DailyEventsBlue.png)| DailyEventsBlue.png | ![Как обрезать](https://github.com/autopilotyoutube/bot-asphalt-legends-android/raw/main/files/pictures/08_world_series/00_MultiPlayer.png) |
+|![Иллюстрация к проекту](https://github.com/autopilotyoutube/bot-asphalt-legends-android/raw/main/files/rus/BotAphalt9/BUTTONS/CarHUNT/DailyEventsWhite.png)| DailyEventsWhite.png | ![Как обрезать](https://github.com/autopilotyoutube/bot-asphalt-legends-android/raw/main/files/pictures/08_world_series/00_MultiPlayer.png) |
+|![Иллюстрация к проекту](https://github.com/autopilotyoutube/bot-asphalt-legends-android/raw/main/files/rus/BotAphalt9/BUTTONS/CarHUNT/CarHUNT.png)| CarHUNT.png | ![Как обрезать](https://github.com/autopilotyoutube/bot-asphalt-legends-android/raw/main/files/pictures/08_world_series/00_MultiPlayer.png) |
+|![Иллюстрация к проекту](https://github.com/autopilotyoutube/bot-asphalt-legends-android/raw/main/files/rus/BotAphalt9/BUTTONS/CarHUNT/Enter.png)| Enter.png | ![Как обрезать](https://github.com/autopilotyoutube/bot-asphalt-legends-android/raw/main/files/pictures/08_world_series/00_MultiPlayer.png) |
+|![Иллюстрация к проекту](https://github.com/autopilotyoutube/bot-asphalt-legends-android/raw/main/files/rus/BotAphalt9/BUTTONS/CarHUNT/Play.png)| Play.png | ![Как обрезать](https://github.com/autopilotyoutube/bot-asphalt-legends-android/raw/main/files/pictures/08_world_series/00_MultiPlayer.png) |
+|![Иллюстрация к проекту](https://github.com/autopilotyoutube/bot-asphalt-legends-android/raw/main/files/rus/BotAphalt9/BUTTONS/CarHUNT/RACE.png)| RACE.png | ![Как обрезать](https://github.com/autopilotyoutube/bot-asphalt-legends-android/raw/main/files/pictures/08_world_series/00_MultiPlayer.png) |
+|![Иллюстрация к проекту](https://github.com/autopilotyoutube/bot-asphalt-legends-android/raw/main/files/rus/BotAphalt9/BUTTONS/CarHUNT/RefillTickets.png)| RefillTickets.png | ![Как обрезать](https://github.com/autopilotyoutube/bot-asphalt-legends-android/raw/main/files/pictures/08_world_series/00_MultiPlayer.png) |
+|![Иллюстрация к проекту](https://github.com/autopilotyoutube/bot-asphalt-legends-android/raw/main/files/rus/BotAphalt9/BUTTONS/CarHUNT/PayTickets.png)| PayTickets.png | ![Как обрезать](https://github.com/autopilotyoutube/bot-asphalt-legends-android/raw/main/files/pictures/08_world_series/00_MultiPlayer.png) |
 
 
+## 😊 Настройка скриншотов в каталоге CarRUN
+Каталог CarRUN находится по адресу BotAphalt9\BUTTONS\CarHUNT\CarRUN
 
+Сюда кидаем несколько скриншотов автомобилей, которые будут катать Охоту за тачкой в ежедневных событиях. Имена скриншотов любые.  
+| СКРИНШОТЫ АВТОМОБИЛЕЙ | Имя файла |
+|:---:|:---:|
+|![Иллюстрация к проекту](https://github.com/autopilotyoutube/bot-asphalt-legends-android/raw/main/files/rus/BotAphalt9/BUTTONS/CarHUNT/CarRUN/Camaro.png)| Camaro.png |
+|![Иллюстрация к проекту](https://github.com/autopilotyoutube/bot-asphalt-legends-android/raw/main/files/rus/BotAphalt9/BUTTONS/CarHUNT/CarRUN/DSAutogold.png)| DSAutogold.png |
+|![Иллюстрация к проекту](https://github.com/autopilotyoutube/bot-asphalt-legends-android/raw/main/files/rus/BotAphalt9/BUTTONS/CarHUNT/CarRUN/Nismo.png)| Nismo.png |
+|![Иллюстрация к проекту](https://github.com/autopilotyoutube/bot-asphalt-legends-android/raw/main/files/rus/BotAphalt9/BUTTONS/CarHUNT/CarRUN/NismoGold.png)| NismoGold.png |
 
-## BotAphalt9\BUTTONS\CarHUNT
-
-BotAphalt9\BUTTONS\CarHUNT
