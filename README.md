@@ -13,6 +13,8 @@
  8. [Сетевая игра "Мировая серия" ("World Series")](https://github.com/AUTOPILOTyoutube/bot-asphalt-legends-android/blob/main/files/rus/08_world_series.md)
  9. [AsphaltSettings.json](https://github.com/AUTOPILOTyoutube/bot-asphalt-legends-android/blob/main/files/rus/09_AsphaltSettings_json.md)
  10. [ОХОТА ЗА ТАЧКОЙ в ежедневных событиях](https://github.com/AUTOPILOTyoutube/bot-asphalt-legends-android/blob/main/files/rus/10_car_hunt_daily_events.md)
+ 11. [Сетевая игра "Ограниченная серия" ("Limited Series")](https://github.com/AUTOPILOTyoutube/bot-asphalt-legends-android/blob/main/files/rus/11_limited_series.md)
+ 
 
 На ютубе имеется отдельный плейлист, в котором Вы найдёте:
 - уроки по настройке бота
