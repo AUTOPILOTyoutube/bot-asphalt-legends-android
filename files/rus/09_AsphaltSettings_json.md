@@ -4,6 +4,8 @@
 
  ## 😊 AsphaltSettings.json
 
+ [ВИДЕОУРОК](https://youtu.be/ooLLJdu3mHs)
+
 Файл AsphaltSettings.json находится в папке BotAphalt9  
 Этот файл необходим для настройки некоторых параметров бота.
 
@@ -29,6 +31,7 @@ https://4pda.to/forum/index.php?showtopic=625901
 
 ## 😊 Содержимое файла AsphaltSettings.json  
 
+```json
 {  
     "NitroXY": [1350,550],  
     "BrakeXY": [250,550],  
@@ -40,4 +43,32 @@ https://4pda.to/forum/index.php?showtopic=625901
     "GamePackageOriginal":"com.gameloft.android.ANMP.GloftA9HM",  
     "GamePackageChina":"com.gameloft.android.HUAW.GloftA9HW.HUAWEI"  
 }
+```
+Начало отсчёта координат - левый верхний угол (Х=0, У=0)  
+![Иллюстрация к проекту](https://github.com/autopilotyoutube/bot-asphalt-legends-android/raw/main/files/pictures/09_AsphaltSettings/02.png)  
 
+NitroXY - x,y координаты значка нитро  
+BrakeXY – x,y координаты значка тормоз  
+![Иллюстрация к проекту](https://github.com/autopilotyoutube/bot-asphalt-legends-android/raw/main/files/pictures/09_AsphaltSettings/03.png)  
+
+RunGameLeftSwipe – x1,y1,x2,y2 координаты левого горизонтального свайпа (выбирает повороты, трамплины...)  
+![Иллюстрация к проекту](https://github.com/autopilotyoutube/bot-asphalt-legends-android/raw/main/files/pictures/09_AsphaltSettings/04.png)  
+
+RunGameRightSwipe – x1,y1,x2,y2 координаты правого горизонтального свайпа  
+![Иллюстрация к проекту](https://github.com/autopilotyoutube/bot-asphalt-legends-android/raw/main/files/pictures/09_AsphaltSettings/05.png)  
+
+CarSelectWorldSeriesSwipe[x1,y1,x2,y2,COUNT] – x1,y1,x2,y2 координаты левого горизонтального свайпа (выбор машин в сетевой игре "Мировая Серия")  
+COUNT - количество свайпов, которые делает бот при поиске машины (по умолчанию 7)
+
+
+![Иллюстрация к проекту](https://github.com/autopilotyoutube/bot-asphalt-legends-android/raw/main/files/pictures/09_AsphaltSettings/06.png)  
+
+DailyEventsCarHuntSelectSwipe – x1,y1,x2,y2 координаты левого горизонтального свайпа (выбор события "Охота за тачкой" в ежедневных событиях)  
+![Иллюстрация к проекту](https://github.com/autopilotyoutube/bot-asphalt-legends-android/raw/main/files/pictures/09_AsphaltSettings/07.png)  
+
+SpecialEventsCarHuntSelectVerticalSwipe – x1,y1,x2,y2 координаты вертикального свайпа (выбор события "Охота за тачкой" в сезонных событиях)
+![Иллюстрация к проекту](https://github.com/autopilotyoutube/bot-asphalt-legends-android/raw/main/files/pictures/09_AsphaltSettings/08.png)  
+
+GamePackageOriginal - название оригинальной версии игры  
+GamePackageChina - название китайской версии игры  
+[Как узнать название игры](https://github.com/AUTOPILOTyoutube/bot-asphalt-legends-android/blob/main/files/rus/06_version.md)  
