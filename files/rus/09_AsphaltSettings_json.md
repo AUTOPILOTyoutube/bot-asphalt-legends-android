@@ -72,4 +72,4 @@ SpecialEventsCarHuntSelectVerticalSwipe – x1,y1,x2,y2 координаты в�
 GamePackageOriginal - название оригинальной версии игры  
 GamePackageChina - название китайской версии игры  
 
-[ВИДЕОУРОК: Как узнать название игры](https://github.com/AUTOPILOTyoutube/bot-asphalt-legends-android/blob/main/files/rus/06_version.md)  
+[Как узнать название игры](https://github.com/AUTOPILOTyoutube/bot-asphalt-legends-android/blob/main/files/rus/06_version.md)  
