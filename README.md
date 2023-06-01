@@ -11,6 +11,7 @@
  6. [Выбор версии игры - ОРИГИНАЛЬНАЯ / КИТАЙСКАЯ](https://github.com/AUTOPILOTyoutube/bot-asphalt-legends-android/blob/main/files/rus/06_version.md)
  7. [Быстрая проверка бота](https://github.com/AUTOPILOTyoutube/bot-asphalt-legends-android/blob/main/files/rus/07_start_bot.md)
  8. [Сетевая игра "Мировая серия" ("World Series")](https://github.com/AUTOPILOTyoutube/bot-asphalt-legends-android/blob/main/files/rus/08_world_series.md)
+ 9. [AsphaltSettings.json](https://github.com/AUTOPILOTyoutube/bot-asphalt-legends-android/blob/main/files/rus/09_AsphaltSettings_json.md)
 
 На ютубе имеется отдельный плейлист, в котором Вы найдёте:
 - уроки по настройке бота
