@@ -16,6 +16,7 @@
  11. [СЕТЕВАЯ ИГРА "Ограниченная серия" ("Limited Series")](https://github.com/AUTOPILOTyoutube/bot-asphalt-legends-android/blob/main/files/rus/11_limited_series.md)
  12. [СЕТЕВАЯ ИГРА "Испытания" ("Trial Series")](https://github.com/AUTOPILOTyoutube/bot-asphalt-legends-android/blob/main/files/rus/12_trial_series.md)
  13. [ОХОТА ЗА ТАЧКОЙ в специальных событиях (CarHUNT - SPECIAL EVENTS)](https://github.com/AUTOPILOTyoutube/bot-asphalt-legends-android/blob/main/files/rus/13_car_hunt_special_events.md)
+ 14. [Установка китайской версии игры](https://github.com/AUTOPILOTyoutube/bot-asphalt-legends-android/blob/main/files/rus/14_china_version.md)
 
 На ютубе имеется отдельный плейлист, в котором Вы найдёте:
 - уроки по настройке бота
